@@ -1,7 +1,6 @@
 DiningPhilosophersProblem
 =============
-
-计算机网络实验:哲学家就餐问题
+已经在博客上有备份。
 
 问题描述
 -------------
@@ -24,5 +23,5 @@ DiningPhilosophersProblem
 其他解法：服务生解法 资源分级解法 Chandy/Misra解法
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DIYgod/diningphilosophersproblem/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 
